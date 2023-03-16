@@ -20,4 +20,4 @@ git push origin --delete v1.7
 ##Tell me how to delete tag locally
 git tag -d v1.7
 
-!(iti photo) [index.png]
+![iti photo] (index.png) 
